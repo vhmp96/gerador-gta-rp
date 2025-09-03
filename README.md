@@ -4,7 +4,7 @@
 
 ## 🎯 Objetivo
 
-Este projeto foi criado para solucionar uma necessidade da comunidade de Roleplay (RP), especificamente para jogadores que atuam como policiais em cidades do GTA RP, como a DPC Valley. O objetivo é automatizar e padronizar a criação de banners de "Procurado", eliminando a necessidade de editar imagens manualmente e agilizando a divulgação de informações importantes dentro do jogo.
+Este projeto foi criado para solucionar uma necessidade da comunidade de Roleplay (RP), especificamente para jogadores que atuam como policiais em cidades do GTA RP, como a Capital Valley. O objetivo é automatizar e padronizar a criação de banners de "Procurado", eliminando a necessidade de editar imagens manualmente e agilizando a divulgação de informações importantes dentro do jogo.
 
 A ferramenta permite que qualquer usuário crie um banner com aparência profissional em poucos segundos.
 
@@ -49,4 +49,4 @@ O projeto é composto apenas por arquivos front-end e não requer um servidor pa
 2.  Navegue até a pasta do projeto.
 3.  Abra o arquivo `index.html` em seu navegador de preferência.
 
-[🔗 **Clique aqui para ver uma demonstração ao vivo!**](URL_DO_SEU_PROJETO_ONLINE_AQUI)
+[🔗 **Clique aqui para ver uma demonstração ao vivo!**](https://gtawanted-i9cdpz.manus.space/)
