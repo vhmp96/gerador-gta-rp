@@ -1,6 +1,6 @@
 # Gerador de Banner de Procurado - GTA RP
 
-![https://i.postimg.cc/66RxvMXG/gerador.png] (https://postimg.cc/xq0Zryq0)
+![Screenshot do Projeto](https://i.postimg.cc/66RxvMXG/gerador.png)
 
 ## 🎯 Objetivo
 
