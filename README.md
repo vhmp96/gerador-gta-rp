@@ -45,7 +45,7 @@ Este foi um projeto fundamental para solidificar meus conhecimentos em desenvolv
 
 O projeto é composto apenas por arquivos front-end e não requer um servidor para ser executado.
 
-1.  Clone o repositório: `git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git`
+1.  Clone o repositório: `git clone https://github.com/vhmp96/gerador-gta-rp/blob/main/README.md`
 2.  Navegue até a pasta do projeto.
 3.  Abra o arquivo `index.html` em seu navegador de preferência.
 
